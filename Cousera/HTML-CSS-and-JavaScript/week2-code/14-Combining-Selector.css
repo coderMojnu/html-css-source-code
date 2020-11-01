@@ -1,0 +1,24 @@
+/*article li { Every li that is nested in article should be color blue
+	color: blue;
+}
+.colored p {Every p that is inside an element that has class colored
+	color: gray;
+	background: #a2d5f5; 
+}
+article > .colored {
+	color: #063b5c;
+	background: #faa;
+}*/
+p.colored.coloring {
+	color: red;
+}
+article > p {
+	height: 50px;
+	width: 140px;
+	background-color: #faa234;
+}
+section > h2 {
+	height: 50px;
+	width: 540px;
+	background-color: #aafafa;
+}

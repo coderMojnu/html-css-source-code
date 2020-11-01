@@ -1,0 +1,36 @@
+ul.menu {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background: #4efafa;
+	border-bottom: 1px solid #f00;
+	min-height: 57px;
+}
+.menu li {
+	border-right: 1px solid #605091;
+	border-left: 1px solid #605091;
+	list-style-type: none;
+	float: left;
+}
+
+.menu li:last-child {
+	border-right: none;
+}
+.menu li:first-child {
+	border-left: none;
+}
+
+.menu li a {
+	color: #afafaf;
+	font-size: 2em;
+	text-decoration: none;
+	background: #0ffafa;
+	padding: 10px;
+	margin: 0 5% 0 0;
+	display: block;
+	transition: 0.2s color ease;
+}
+.menu li a:hover {
+	color: #00008B;
+}
+

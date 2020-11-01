@@ -1,0 +1,32 @@
+body {
+	background: #f0fcfc;
+	margin: 1%;
+	padding: 1%;
+}
+nav {
+	box-sizing: border-box;
+	border: 1px solid #06425C;
+	color:#06425C;
+	background-color:#486B02;
+	width: 20%;
+	min-width: 125px;
+	height: 100vh;
+	display: inline-block;
+	margin-right:15px;
+	overflow: auto;
+}
+
+nav a {
+	color: #ffffff;
+	display: block;
+	line-height: 45px;
+	text-decoration: none;
+	padding-left: 50px;
+	margin: 20px 0 10px 5px;
+}
+section {
+	display: inline-block;
+	width:70%;
+	height:100vh;
+	overflow: auto;
+}
