@@ -1,0 +1,14 @@
+h1 {
+	color: blue;
+	text-shadow: rgba(0,0,255,1) -5px -5px .5em; 
+	font-size: 30pt;
+}
+.capitalize {
+	text-transform: capitalize;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.lowercase {
+	text-transform: lowercase;
+}

@@ -1,0 +1,7 @@
+ul li {
+	text-transform: uppercase;
+    /*list-style-type: square;
+    list-style-image: url(https://www.sololearn.com/Images/password-eye-open.svg);
+    list-style-position: inside;*/
+	list-style: square inside url(https://www.sololearn.com/Images/password-eye-open.svg);
+}

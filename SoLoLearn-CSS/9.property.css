@@ -1,0 +1,35 @@
+h1 {
+	padding: 10px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: rgb(0, 153, 0);
+}
+p.none {border-style: none;}
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.hidden {border-style: hidden;}
+div {
+	color: white;
+	border: 5px solid blue;
+	width: 100%;
+	height: 90px;
+	background-image: url("img/background.jpg");
+	background-color: #fffaaa;
+}
+p.first {
+	height: 600px;
+	border: 5px solid blue;
+	min-height: 100px;
+	background-image: url("img/photo.jpeg");
+	background-repeat: repeat;
+	background-attachment: scroll;
+}
+p.second {
+	border: 5px solid blue;
+	max-width: 100px;
+}

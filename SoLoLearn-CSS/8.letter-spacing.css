@@ -1,0 +1,10 @@
+p { 
+    letter-spacing: 4px;
+	word-spacing: -12px;
+	white-space: nowrap;
+}
+h1 { 
+    letter-spacing: -4px;
+	word-spacing: 20px;
+	white-space: pre-wrap;
+}

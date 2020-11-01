@@ -1,0 +1,21 @@
+div {
+	width: 500px;
+	height: 400px;
+}
+
+p.right {
+	text-align: right;
+	vertical-align: bottom;
+}
+p.left {
+	text-align: left;
+	vertical-align: top;
+}
+p.justify {
+	text-align: justify;
+}
+	
+p.center {
+	text-align: center; 
+	vertical-align: bottom;
+}
